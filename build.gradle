@@ -14,11 +14,13 @@ repositories {
 		url "http://repo1.maven.org/maven2"
 	}
 }
+
 dependencies {
 	
 	compile 'org.codehaus.groovy:groovy-all:2.4.7'
 	
 	testCompile 'junit:junit:4.12'
+	compile 'org.jsoup:jsoup:1.8.3'
 
 }
 test {

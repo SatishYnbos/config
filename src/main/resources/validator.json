@@ -1,0 +1,4 @@
+{
+	"isNull":"{param -> if(param == null) {return true} else {return false}}",
+	"isValidLength":"{param -> if(param.length() > 0) {return true} else {return false}}"
+}

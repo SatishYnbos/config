@@ -1,0 +1,12 @@
+{
+"className":"Account",
+"fields":{
+	"number":"123",
+	"type":"credit",
+	"balance":"500"
+	},
+"methods":{
+	"addAmount":"{balance, amount -> (balance as Long) + (amount as Long)}",
+	"withdrawAmount":"{balance, amount -> (balance as Long) - (amount as Long)}"
+	}
+}

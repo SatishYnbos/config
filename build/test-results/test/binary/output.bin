@@ -1,2 +1,4 @@
-W[id:001000062805126, result:clear, status:complete, submittedAt:2017-02-17T14:58:22Z]
-001000062805126
+false
+false
+Ó[temporaryPassword.invalid.attempts.timeWindowInMins:1440, workq.enabled:false, karoo.URL:http://karoo.carelocal.com:8080, karoo.domain:karoo.carelocal.com, smtp.host:localhost, karoo.secure.URL:, SatishId:10]
+10
